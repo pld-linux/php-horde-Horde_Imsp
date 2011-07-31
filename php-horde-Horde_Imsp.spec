@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - IMSP API
 Name:		php-horde-Horde_Imsp
-Version:	1.0.0
+Version:	1.0.3
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	5d4b78e9b7f6465fb4d55afb4cc75c6f
+# Source0-md5:	e07cc64d97417f39f418bd50839ac518
 URL:		https://github.com/horde/horde/tree/master/framework/Imsp/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
