@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Imsp
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - IMSP API
 Name:		php-horde-Horde_Imsp
 Version:	1.0.6
